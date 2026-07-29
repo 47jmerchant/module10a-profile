@@ -1,3 +1,17 @@
+# Module 10A – Profile Component with State and Props
+
+## Description
+This project demonstrates how to use React props and state to build an interactive profile component.
+
+## What I Learned
+- How to pass props to customize a component
+- How to use useState for conditional rendering
+- How to design interactive interfaces in React
+
+## Screenshot
+<img width="1276" height="649" alt="Screen Shot 2026-07-28 at 10 50 02 PM" src="https://github.com/user-attachments/assets/367ee735-fc80-4de9-b1b9-4c26ddcc7bdf" />
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
