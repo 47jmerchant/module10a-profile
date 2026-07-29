@@ -1,2 +1,9 @@
-# module10a-profile
-Using React props and state by having to build a custom Profile component and designing a component for a different purpose such as an athlete profile, author bio, musician spotlight, or community member showcase.
+# Module 10A – Profile Component with State and Props
+
+## Description
+This project demonstrates how to use React props and state to build an interactive profile component.
+
+## What I Learned
+- How to pass props to customize a component
+- How to use useState for conditional rendering
+- How to design interactive interfaces in React
